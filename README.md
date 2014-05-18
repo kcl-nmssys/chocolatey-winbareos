@@ -8,7 +8,7 @@ This will silently install Bareos (a client/server backup solution) File daemon 
 Usage examples
 --------------
 
-:exclamation: [Chocolatey](http://chocolatey.org) is required to use the chocolatey-winbareos Chocolatey package, see [installation instructions](https://github.com/chocolatey/chocolatey/wiki/Installation).
+:exclamation: [Chocolatey](http://chocolatey.org) is required to use the winbareos Chocolatey package, see [installation instructions](https://github.com/chocolatey/chocolatey/wiki/Installation).
 
 :grey_exclamation: Cloning of this repository is not required to use it: packages are stored on Chocolatey server
 
