@@ -3,7 +3,7 @@
   <metadata>
     <id>winbareos.install</id>
     <title>Bareos Windows File daemon (Install)</title>
-    <version>13.2.2</version>
+    <version>14.2.2</version>
     <authors>Bareos GmbH &amp; Co.KG</authors>
     <owners>DUVERGIER Claude</owners>
     <summary>File daemon for Bareos backup solution</summary>

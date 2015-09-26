@@ -3,7 +3,7 @@
   <metadata>
     <id>winbareos</id>
     <title>Bareos Windows File daemon</title>
-    <version>13.2.2</version>
+    <version>14.2.2</version>
     <authors>Bareos GmbH &amp; Co.KG</authors>
     <owners>DUVERGIER Claude</owners>
     <summary>File daemon for Bareos backup solution</summary>
@@ -15,7 +15,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/C-Duv/chocolatey-winbareos/master/winbareos/winbareos-logo.png</iconUrl>
     <dependencies>
-      <dependency id="winbareos.install" version="[13.2.2]" />
+      <dependency id="winbareos.install" version="[14.2.2]" />
     </dependencies>
     <releaseNotes></releaseNotes>
   </metadata>
