@@ -1,7 +1,7 @@
 $packageName = 'winbareos.install'
 $installerType = 'exe'
-$url = 'http://download.bareos.org/bareos/release/latest/windows/winbareos-13.2.2-32-bit-r2.1.exe'
-$url64 = 'http://download.bareos.org/bareos/release/latest/windows/winbareos-13.2.2-64-bit-r2.1.exe'
+$url = 'http://download.bareos.org/bareos/release/latest/windows/winbareos-14.2.2.postvista-32-bit-r16.1.exe'
+$url64 = 'http://download.bareos.org/bareos/release/latest/windows/winbareos-14.2.2.postvista-64-bit-r16.1.exe'
 $silentArgs = '/S'
 $validExitCodes = @(0)
 
