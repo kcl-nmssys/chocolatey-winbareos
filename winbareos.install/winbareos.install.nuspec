@@ -3,9 +3,9 @@
   <metadata>
     <id>winbareos.install</id>
     <title>Bareos Windows File daemon (Install)</title>
-    <version>14.2.2</version>
+    <version>19.2.7</version>
     <authors>Bareos GmbH &amp; Co.KG</authors>
-    <owners>DUVERGIER Claude</owners>
+    <owners>DUVERGIER Claude, Xand Meaden</owners>
     <summary>File daemon for Bareos backup solution</summary>
     <description>"Client" part of Bareos system: a network Client/Server based backup program. Bareos is relatively easy to use and efficient, while offering many advanced storage management features that make it easy to find and recover lost or damaged files. Due to its modular design, Bareos is scalable from small single computer systems to systems consisting of hundreds of computers located over a large network.</description>
     <projectUrl>http://www.bareos.org</projectUrl>
