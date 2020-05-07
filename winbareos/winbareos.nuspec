@@ -15,7 +15,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/C-Duv/chocolatey-winbareos/master/winbareos/winbareos-logo.png</iconUrl>
     <dependencies>
-      <dependency id="winbareos.install" version="[14.2.2]" />
+      <dependency id="winbareos.install" version="[19.2.7]" />
     </dependencies>
     <releaseNotes></releaseNotes>
   </metadata>
